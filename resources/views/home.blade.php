@@ -31,7 +31,7 @@
                         <a class="nav-link " aria-current="page" href="#">Discussion</a>
                     </li>
                     <li class="nav-item ">
-                        <a class="nav-link " aria-current="page" href="#">About Us</a>
+                        <a class="nav-link text-nowrap" aria-current="page" href="#">About Us</a>
                     </li>
                 </ul>
                 <form class="d-flex w-100 me-4 my-2 my-lg-0" role="search" action="#" method="GET">
@@ -41,10 +41,10 @@
                     <input class="form-control border-start-0 ps-0" type="search" placeholder="Search"
                         aria-label="Search" name="" value="">
                 </form>
-                <ul>
+                <ul class="navbar-nav ms-auto my-2 my-lg-0">
                     <li class="nav-item my-auto">
                         <a class="nav-link text-nowrap" aria-current="page" href="#">Log In</a>
-                    </li>  
+                    </li>
                     <li class="nav-item ps-1 pe-0">
                         <a class="btn btn-primary-white" aria-current="page" href="#">Sign Up </a>
                     </li>
